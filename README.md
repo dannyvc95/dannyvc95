@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here you can learn something about me...
 #### What's my favorite programming language?
-I enjoy programming no matter in which language (not you Assembly 🙄) but I'm better using:
+I enjoy programming no matter in which language (of course not Assembly) but I'm better using:
 <br><br>
 <img src="https://img.shields.io/static/v1?label=Java&style=flat-square&message=%20&logo=java&color=F80000&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/static/v1?label=C%2B%2B&style=flat-square&message=%20&logo=c%2B%2B&color=00599C&logoColor=white" />&nbsp;
