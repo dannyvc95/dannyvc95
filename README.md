@@ -12,13 +12,3 @@ I enjoy programming no matter in which language (not you Assembly 🙄) but I'm 
 <br>
 #### How I use GitHub?
 Well, mostly for personal projects, to keep sharp my skills and share computer science knowledge.
-#### What's my favorite videogame?
-Sekiro, because is excellent and teaches you things like:
-- Patience. 
-- Perseverance.
-- Handle frustration.
-- Learn by failing.
-- Take advantage of your tools.
-<br>
-<img src="https://i.pinimg.com/originals/e0/49/c9/e049c9833fb0989cc775c9e6e5284448.gif" height="200" width="300px"  />
-Basically the skills that every software engineer must have, go and play it.
