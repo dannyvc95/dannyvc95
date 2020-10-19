@@ -11,4 +11,4 @@ I enjoy programming no matter in which language (of course not Assembly) but I'm
 <img src="http://cdn.lowgif.com/full/29061c9bd3790e0e-para-come-ar-a-meditar-e-acalmar-a-mente-indiretas-do-bem.gif" height="200" width="300px"  />
 <br>
 #### How I use GitHub?
-Well, mostly for personal projects, to keep sharp my skills and share computer science knowledge.
+Well, mostly for personal projects, to keep sharp my skills and share computer science knowledge. Also I'm planning to bring some useful computer science knowledge that I've grasp along my time as student in the university.
